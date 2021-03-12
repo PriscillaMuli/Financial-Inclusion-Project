@@ -14,17 +14,25 @@ This project was done as part of an assessment for a Data Science Course
 **Summary Guideline of Topics Covered in Analysis**
 
 Defining the Question
+
 Reading the Data.
+
 Checking the Data.
+
 Performing Univariate, Bivariate and Multivariate Analysis.
+
 Creating Visualizations.
+
 Challenging the Solution.
+
 Conclusion and Recommendations.
 
 **Technologies and Software Used**
 
 Google Colaboratory
+
 Jupyter Notebook
+
 Python 3 
 
 **Setup**
