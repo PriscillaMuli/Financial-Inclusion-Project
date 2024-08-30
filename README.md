@@ -1,5 +1,3 @@
-# Moringa-Data-Science-Week2-Independent-Project
-
 **Financial Inclusion in Kenya, Rwanda, Tanzania and Uganda**
 
 **Description**
